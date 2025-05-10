@@ -14,6 +14,7 @@ View key metrics such as total sales, total margin, and top-performing products.
 The dashboard is designed to be intuitive and easy to use, even for those with limited Excel experience.
 
 #Dataset Used
-https://github.com/Dorccus/Sales-Mark-Dashboard/blob/main/Screenshot%202025-05-06%20005438.png
+<a href="https://github.com/Dorccus/Sales-Mark-Dashboard/blob/main/Screenshot%202025-05-06%20005438.png">Dashboard</a>
+<a href="https://github.com/Dorccus/Sales-Mark-Dashboard/blob/main/supermarket_sales%20-%20Sheet101.xlsx">Excel Dataset</a>
 
 
