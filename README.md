@@ -17,4 +17,20 @@ The dashboard is designed to be intuitive and easy to use, even for those with l
 <a href="https://github.com/Dorccus/Sales-Mark-Dashboard/blob/main/Screenshot%202025-05-06%20005438.png">Dashboard</a>
 <a href="https://github.com/Dorccus/Sales-Mark-Dashboard/blob/main/supermarket_sales%20-%20Sheet101.xlsx">Excel Dataset</a>
 
+Questions (KPIs)
+	Compare the sales and orders using different charts.
+	Which city got the highest sales and orders?
+	Who purchased more between Men and Women?
+	What is the different orders status in cities?
+	Is there a relationship between the genders based on the number of sales.
+	Percentage of Total sales delivered.
 
+#Insights
+	Women customers are more likely to buy more products compared to men.
+	The cities of Mandalay, Naypyitaw and Yangon are the three most participating cities.
+
+#Process
+	Verified that there are no missing values and duplicates so that data can filtered and sorted.
+	The data is consisted of and clean regarding data type, values and format.
+	Created a pivot table and pivot chart according to the questions asked.
+	Merge all pivot tables into a dashboard and apply slicers to make it interactive and dynamic.
