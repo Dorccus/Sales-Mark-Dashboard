@@ -13,4 +13,7 @@ View key metrics such as total sales, total margin, and top-performing products.
 	User-Friendly Interface: 
 The dashboard is designed to be intuitive and easy to use, even for those with limited Excel experience.
 
+#Dataset Used
+https://github.com/Dorccus/Sales-Mark-Dashboard/blob/main/Screenshot%202025-05-06%20005438.png
+
 
